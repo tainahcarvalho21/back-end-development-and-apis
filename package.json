@@ -1,7 +1,7 @@
 {
   "name": "back-end-development-and-apis",
   "version": "1.0.0",
-  "description": "",
+  "description": "A project that does something awesome",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tainahcarvalho21/back-end-development-and-apis/issues"
   },
-  "homepage": "https://github.com/tainahcarvalho21/back-end-development-and-apis#readme"
+  "homepage": "https://github.com/tainahcarvalho21/back-end-development-and-apis#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
